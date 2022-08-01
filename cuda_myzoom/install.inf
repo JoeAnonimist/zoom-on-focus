@@ -1,0 +1,13 @@
+[info]
+title=Zoom_Plugin
+desc=(Fill the description)
+type=cudatext-plugin
+subdir=cuda_myzoom
+homepage=(Fill the GitHub repo URL)
+
+[item2]
+section=events
+events=on_focus
+caption=Zoom_Plugin
+method=run
+
